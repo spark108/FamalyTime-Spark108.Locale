@@ -1,6 +1,7 @@
 # Keep the repository focused on the mod source.
 /*
 !/.gitignore
+!/README.md
 !/Spark108.Locale/
 
 # Build output and local IDE settings.
