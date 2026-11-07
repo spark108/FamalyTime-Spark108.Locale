@@ -1,0 +1,11 @@
+# Keep the repository focused on the mod source.
+/*
+!/.gitignore
+!/Spark108.Locale/
+
+# Build output and local IDE settings.
+**/bin/
+**/obj/
+**/.vs/
+**/*.user
+**/*.suo
